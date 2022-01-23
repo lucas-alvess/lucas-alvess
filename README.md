@@ -1,6 +1,5 @@
 ## Opa, baum? Bem vindo ao meu perfil do GitHub!!!
 
-- 🔭 Atualmente buscando estágios na área de Front-End / TI
 - 🌱 Estudando JavaScript
 
  <div>
