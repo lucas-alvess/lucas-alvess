@@ -1,6 +1,7 @@
 ## Opa, baum? Bem vindo ao meu perfil do GitHub!!!
 
-- 🌱 Estudando JavaScript
+- Atualmente estudando a base de FrontEnd.
+- Aprendendo sobre Banco de Dados (MySQL) e linguagem Java.
 
  <div>
   <a href="https://github.com/lucas-alvess">
