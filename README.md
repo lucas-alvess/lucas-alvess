@@ -1,5 +1,6 @@
 ## Opa, baum? Bem vindo ao meu perfil do GitHub!!!
 
+- Utilizo essa rede para armazenar materiais de estudo, testes e projetos pessoais. 
 - Atualmente estudando a base de FrontEnd.
 - Aprendendo sobre Banco de Dados (MySQL) e Java.
 
