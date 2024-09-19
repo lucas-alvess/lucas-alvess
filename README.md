@@ -2,7 +2,6 @@
 
 - Utilizo essa rede para armazenar materiais de estudo, testes e projetos pessoais. 
 - Atualmente estudando FrontEnd.
-- Aprendendo sobre Banco de Dados (MySQL) e Java (faculdade).
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
