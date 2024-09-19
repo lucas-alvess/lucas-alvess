@@ -3,12 +3,6 @@
 - Utilizo essa rede para armazenar materiais de estudo, testes e projetos pessoais. 
 - Atualmente estudando FrontEnd.
 - Aprendendo sobre Banco de Dados (MySQL) e Java (faculdade).
-
- <div>
-  <a href="https://github.com/lucas-alvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-alvess&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-alvess&layout=compact&langs_count=7&theme=algolia"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
