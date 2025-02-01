@@ -1,7 +1,4 @@
 ## Opa, baum? Bem vindo ao meu perfil do GitHub!!!
-
-- Utilizo essa rede para armazenar materiais de estudo, testes e projetos pessoais. 
-- Atualmente estudando FrontEnd.
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
