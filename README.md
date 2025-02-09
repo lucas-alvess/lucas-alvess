@@ -1,6 +1,6 @@
-## Hi there!
+## Hi there! I'm Lucas Alves...
 
-I'm Lucas and this is my space on GitHub.
+## Junior Full-Stack Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-alvess&layout=compact)](https://github.com/lucas-alvess/github-readme-stats)
 
@@ -14,5 +14,4 @@ I'm Lucas and this is my space on GitHub.
     <img align="center" alt="Icon-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Icon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    
     <img align="center" alt="Icon-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    
   </div>
