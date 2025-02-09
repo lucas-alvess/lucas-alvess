@@ -1,10 +1,9 @@
-## Hi there! I'm Lucas Alves...
+# Hi there! I'm Lucas Alves...
+###### Junior Full-Stack Developer
 
-## Junior Full-Stack Developer
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-alvess&layout=compact)](https://github.com/lucas-alvess/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-alvess&layout=compact)](https://github.com/lucas-alvess/github-readme-stats)
-
-## Technologies:
+### Technologies:
 
   <div style="display: inline_block">
     <img align="center" alt="Icon-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
