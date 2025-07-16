@@ -1,5 +1,5 @@
 # Hi there! I'm Lucas Alves...
-###### Junior Full-Stack Developer
+###### Cybersecurity Jr.
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-alvess&layout=compact)](https://github.com/lucas-alvess/github-readme-stats)
 
