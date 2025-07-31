@@ -4,7 +4,7 @@
   💻 Computer Maintenance Technician | ☣️ Enthusiast in Cyber Security & 🐍 Python Language  <br><br>
   Working for 3 years with computer maintenance and currently studying Cyber Security and Python Language.  <br>
   I use the platform to store projects and programming studies.
-</p><br>
+</p>
 
 ## Skills
 
