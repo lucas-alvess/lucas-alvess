@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi, i'm Lucas Alves</b></h1>
 
 <p align="center">
-  💻 Computer Maintenance Technician | ☣️ Enthusiast in Cyber Security & 🐍 Python Language  <br><br>
+  💻 Computer Maintenance Technician and FrontEnd Jr. | ☣️ Enthusiast in Cyber Security & 🐍 Python Language  <br><br>
   Working for 3 years with computer maintenance and currently studying Cyber Security and Python Language.  <br>
   I use the platform to store projects and programming studies.
 </p>
